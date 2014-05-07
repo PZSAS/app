@@ -1,41 +1,41 @@
-app - Aplikacja mobilna - Android
+Ôªøapp - Aplikacja mobilna - Android
 ===
-## Uøyte technologie:
+## U≈ºyte technologie:
 - Baza danych - SQLite
 - Silnik - Java + Android SDK
 - Widoki - XML
 
-## Struktura plikÛw:
-- assets/ - katalog chwilowo nieuøywany
-- bin/ - katalog z wygenerowanymi plikami uøytkowymi 
-- gen/ - katalog z plikami z adresami zmiennych i elementÛw
+## Struktura plik√≥w:
+- assets/ - katalog chwilowo nieu≈ºywany
+- bin/ - katalog z wygenerowanymi plikami u≈ºytkowymi 
+- gen/ - katalog z plikami z adresami zmiennych i element√≥w
 - libs/ - katalog z bibliotekami
 - res/ - katalog z zasobami
-	- drawable-hdpi/ - katalog zawierajπcy obrazy dla wysokich rozdzielczoúci
-	- drawable-ldpi/ - katalog zawierajπcy obrazy dla niskich rozdzielczoúci
-	- drawable-mdpi/ - katalog zawierajπcy obrazy dla úrednich rozdzielczoúci
-	- drawable-xhdpi/ - katalog zawierajπcy obrazy dla bardzo wysokich rozdzielczoúci
-	- layout/ - katalog zawierajπcy widoki (pliki XML)
-		- activity_history.xml - widok prezentujπcy historyczne dane
+	- drawable-hdpi/ - katalog zawierajƒÖcy obrazy dla wysokich rozdzielczo≈õci
+	- drawable-ldpi/ - katalog zawierajƒÖcy obrazy dla niskich rozdzielczo≈õci
+	- drawable-mdpi/ - katalog zawierajƒÖcy obrazy dla ≈õrednich rozdzielczo≈õci
+	- drawable-xhdpi/ - katalog zawierajƒÖcy obrazy dla bardzo wysokich rozdzielczo≈õci
+	- layout/ - katalog zawierajƒÖcy widoki (pliki XML)
+		- activity_history.xml - widok prezentujƒÖcy historyczne dane
 		- activity_login.xml - widok logowania - ekran startowy
 		- activity_menu.xml - widok menu
-		- activity_start.xml - widok prezentujπcy aktualne dane
+		- activity_start.xml - widok prezentujƒÖcy aktualne dane
 		- activity_update.xml - widok aktualizacji danych
 		- button.xml - ustawienia przycisku
-	- menu/ - katalog zawierajπcy pliki menu
-	- raw/ - katalg zawierajπcy pliki z danymi
-	- values/, values-large/, values-v11/, values-x14/ - katalogi zawierajπce pliki ze zmiennymi
-- src/ - katalog z plikami ürÛd≥owymi (com/example/sas/)
+	- menu/ - katalog zawierajƒÖcy pliki menu
+	- raw/ - katalg zawierajƒÖcy pliki z danymi
+	- values/, values-large/, values-v11/, values-x14/ - katalogi zawierajƒÖce pliki ze zmiennymi
+- src/ - katalog z plikami ≈∫r√≥d≈Çowymi (com/example/sas/)
 	- Database.java - tworzenie bazy danych
-	- DBConnector.java - przesy≥anie danych serwer - aplikacja
-	- DBHandler.java - obs≥uga bazy danych
+	- DBConnector.java - przesy≈Çanie danych serwer - aplikacja
+	- DBHandler.java - obs≈Çuga bazy danych
 	- GraphViewData.java - przechowywanie danych do wykresu
-	- HistoryActivity.java - obs≥uga widoku 
-	- LoginActivity.java - obs≥uga widoku 
-	- MenuActivity.java - obs≥uga widoku 
+	- HistoryActivity.java - obs≈Çuga widoku 
+	- LoginActivity.java - obs≈Çuga widoku 
+	- MenuActivity.java - obs≈Çuga widoku 
 	- RWFile.java - 
-	- StartActivity.java - obs≥uga widoku 
-	- UpdateActivity.java - obs≥uga widoku 
-- AndroidManifest.xml - waøny plik - zawiera deklaracjÍ uøytych widokÛw i pozwolenia
+	- StartActivity.java - obs≈Çuga widoku 
+	- UpdateActivity.java - obs≈Çuga widoku 
+- AndroidManifest.xml - wa≈ºny plik - zawiera deklaracjƒô u≈ºytych widok√≥w i pozwolenia
 
 ##### hAMW
